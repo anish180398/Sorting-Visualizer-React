@@ -148,7 +148,7 @@ export default function MainScreen() {
                 <Grid container spacing={3}>
                     <Grid item xs={12}>
                         <Typography color="textSecondary" component="h3" variant="h3">Sorting Visualizer
-                            Visualizer</Typography>
+                            </Typography>
                     </Grid>
 
                     {inputType === "DefaultInput" && <Grid item xs={12}>
