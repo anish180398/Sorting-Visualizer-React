@@ -147,7 +147,7 @@ export default function MainScreen() {
             <Container maxWidth="lg" style={{ height: '100vh' }}>
                 <Grid container spacing={3}>
                     <Grid item xs={12}>
-                        <Typography color="textSecondary" component="h3" variant="h3">Sorting Visulaizer
+                        <Typography color="textSecondary" component="h3" variant="h3">Sorting Visualizer
                             Visualizer</Typography>
                     </Grid>
 
